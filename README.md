@@ -1,3 +1,3 @@
 # React.js-Calculator
-This was my first react application. This version has been reworked into a component for my portfolio.
-A live demo can be viewed on my portfolio, or you can render the component in an existing react application.
+My second React.js application, a basic calculator. 
+The purpose of this project was to practice working with state and event handlers in React.
